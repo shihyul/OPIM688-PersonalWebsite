@@ -1,3 +1,5 @@
+README.md is the notes/guide file. It tells someone what the code is about. 
+
 # student-site
 
 An example student website, hosted by [GitHub Pages](https://pages.github.com/).
